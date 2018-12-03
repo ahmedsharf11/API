@@ -35,17 +35,3 @@ app.get('/', (req, res)=>{
 })
 
 app.listen(3000);
-//
-// const fun  = function(){
-//
-// }
-//
-// const fun = () => {
-//
-// }
-//
-// map(obj => obj.title)
-//
-// map( object =>
-// object.title
-// )
